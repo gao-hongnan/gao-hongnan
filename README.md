@@ -8,7 +8,6 @@ Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentr
 **reigHns92/reigHns92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/feed/)
 
