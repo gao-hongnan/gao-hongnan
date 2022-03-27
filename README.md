@@ -21,4 +21,4 @@ Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentr
 
 ### Check out my blog!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reigHns92&repo=rich-dataframe)](https://reighns92.github.io/reighns-ml-blog/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reigHns92&repo=reighns-ml-blog)](https://reighns92.github.io/reighns-ml-blog/)
