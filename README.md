@@ -2,6 +2,8 @@
 
 ### Hi there. I'm Hongnan Gao 👋
 
+Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentran1401), I managed to replicate some of her ideas here.
+
 <!--
 **reigHns92/reigHns92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -19,4 +21,4 @@
 
 ### Check out my blog!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reighHns92&repo=rich-dataframe)](https://reighns92.github.io/reighns-ml-blog/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reigHns92&repo=rich-dataframe)](https://reighns92.github.io/reighns-ml-blog/)
