@@ -15,9 +15,9 @@ Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentr
   - :bulb: [Kaggle](https://www.kaggle.com/reighns)
 
   
-[![Hongnan's github stats](https://github-readme-stats.vercel.app/api?username=reigHns92&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Hongnan's github stats](https://github-readme-stats.vercel.app/api?username=gao-hongnan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Check out my blog!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reigHns92&repo=reighns-ml-blog)](https://reighns92.github.io/reighns-ml-blog/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=reighns-ml-blog)](https://gao-hongnan.github.io/reighns-ml-blog/)
