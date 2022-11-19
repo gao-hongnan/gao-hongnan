@@ -5,7 +5,7 @@
 Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentran1401), I managed to replicate some of her ideas here.
 
 <!--
-**reigHns92/reigHns92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gao-hongnan/gao-hongnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - Connect with me on:
