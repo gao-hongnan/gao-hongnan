@@ -20,4 +20,4 @@ Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentr
 
 ### Check out my blog!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=reighns-ml-blog)](https://gao-hongnan.github.io/reighns-ml-blog/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=reighns-ml-blog)](https://gao-hongnan.github.io/gaohn-probability-stats/)
