@@ -7,7 +7,7 @@
 -->
 
 - Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/reighnss/)
+  - :office: [LinkedIn](https://www.linkedin.com/reighnss)
 
 - 📫 Learn more about me on:  
   - :bulb: [Kaggle](https://www.kaggle.com/reighns)
