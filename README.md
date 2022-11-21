@@ -2,8 +2,6 @@
 
 ### Hi there. I'm Hongnan Gao 👋
 
-Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentran1401), I managed to replicate some of her ideas here.
-
 <!--
 **gao-hongnan/gao-hongnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -17,6 +15,7 @@ Thanks to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentr
   
 [![Hongnan's github stats](https://github-readme-stats.vercel.app/api?username=gao-hongnan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+This template is with reference to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentran1401).
 
 ### Check out my blogs!
 
