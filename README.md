@@ -13,7 +13,10 @@
   - :bulb: [Kaggle](https://www.kaggle.com/reighns)
 
   
-[![Hongnan's github stats](https://github-readme-stats.vercel.app/api?username=gao-hongnan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark">
+</p>
+
 
 This template is with reference to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentran1401).
 
