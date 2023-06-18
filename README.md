@@ -6,11 +6,9 @@
 **gao-hongnan/gao-hongnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Connect with me on:
-  - :office: [LinkedIn](https://sg.linkedin.com/in/reighnss)
-
-- 📫 Learn more about me on:  
-  - :bulb: [Kaggle](https://www.kaggle.com/reighns)
+[![](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=ffffff)](mailto:hongnangao@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0a66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gao-hongnan)
+[![](https://img.shields.io/badge/Devpost-003e54?style=flat&logo=kaggle)]([https://devpost.com/alvii147](https://www.kaggle.com/reighns))
 
 <p align="center">
   <img alt = "Github Streak" src = "https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark">
@@ -19,9 +17,6 @@
 <p align="center">
   <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark">
 </p>
-
-
-This template is with reference to [Khuyen's amazing template](https://github.com/khuyentran1401/khuyentran1401).
 
 ### Check out my blogs!
 
