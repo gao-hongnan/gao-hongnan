@@ -20,5 +20,4 @@
 
 ### Check out my blogs!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=gaohn-probability-stats)](https://gao-hongnan.github.io/gaohn-probability-stats/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=gaohn-dsa)](https://gao-hongnan.github.io/gaohn-dsa/)
