@@ -12,13 +12,14 @@
 [![](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://gao-hongnan.github.io/gaohn-dsa/)
 
 
-<p align="center">
-  <div style="display: flex; justify-content: center;">
-    <img alt = "Github Streak" src = "https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark" style="width: 48%; height: auto;">
-    <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark" style="width: 48%; height: auto;">
+<div align="center" style="display: flex; justify-content: space-around;">
+  <div style="width: 48%; height: 195px; display: flex; align-items: center; justify-content: center;">
+    <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark" style="max-height: 195px;">
   </div>
-</p>
-
+  <div style="width: 48%; height: 195px; display: flex; align-items: center; justify-content: center;">
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark" style="max-height: 195px;">
+  </div>
+</div>
 
 ### Check out my blogs!
 
