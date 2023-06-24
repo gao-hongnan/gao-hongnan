@@ -11,6 +11,13 @@
 [![](https://img.shields.io/badge/Kaggle-003e54?style=flat&logo=kaggle)](https://www.kaggle.com/reighns)
 [![](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://gao-hongnan.github.io/gaohn-dsa/)
 
+### Tech Stack
+
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a>
+<a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
+<a href="https://www.docker.com/" target="_blank"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+
+### Stats
 
 <table width="100%">
 <tr>
