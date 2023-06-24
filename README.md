@@ -13,12 +13,12 @@
 
 
 <p align="center">
-  <img alt = "Github Streak" src = "https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark">
+  <div style="display: flex; justify-content: center;">
+    <img alt = "Github Streak" src = "https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark" style="width: 48%; height: auto;">
+    <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark" style="width: 48%; height: auto;">
+  </div>
 </p>
 
-<p align="center">
-  <img alt = "Stats" src = "https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark">
-</p>
 
 ### Check out my blogs!
 
