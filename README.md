@@ -20,6 +20,8 @@
 <a href="https://airflow.apache.org/" target="_blank"> <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white"/></a>
 <a href="https://airbyte.io/" target="_blank"> <img alt="Airbyte" src="https://img.shields.io/badge/Airbyte-%230099CD.svg?style=for-the-badge&logo=Airbyte&logoColor=white"/></a>
 <a href="https://www.getdbt.com/" target="_blank"> <img alt="dbt" src="https://img.shields.io/badge/dbt-%23F01F7A.svg?style=for-the-badge&logo=dbt&logoColor=white"/></a>
+<a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+<a href="https://cloud.google.com/" target="_blank"> <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 
 ### Stats
 
