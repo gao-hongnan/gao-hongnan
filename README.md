@@ -17,6 +17,7 @@
 <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
 <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://kubernetes.io/" target="_blank"> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<a href="https://github.com/features/actions" target="_blank"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
 <a href="https://airflow.apache.org/" target="_blank"> <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white"/></a>
 <a href="https://airbyte.io/" target="_blank"> <img alt="Airbyte" src="https://img.shields.io/badge/Airbyte-%230099CD.svg?style=for-the-badge&logo=Airbyte&logoColor=white"/></a>
 <a href="https://www.getdbt.com/" target="_blank"> <img alt="dbt" src="https://img.shields.io/badge/dbt-%23F01F7A.svg?style=for-the-badge&logo=dbt&logoColor=white"/></a>
