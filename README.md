@@ -12,14 +12,21 @@
 [![](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://gao-hongnan.github.io/gaohn-dsa/)
 
 
-<div align="center" style="display: flex; justify-content: space-around;">
-  <div style="width: 48%; height: 195px; display: flex; align-items: center; justify-content: center;">
-    <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark" style="max-height: 195px;">
-  </div>
-  <div style="width: 48%; height: 195px; display: flex; align-items: center; justify-content: center;">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark" style="max-height: 195px;">
-  </div>
-</div>
+<table width="100%">
+<tr>
+<td width="50%">
+
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark)
+
+</td>
+<td width="50%">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark)
+
+</td>
+</tr>
+</table>
+
 
 ### Check out my blogs!
 
