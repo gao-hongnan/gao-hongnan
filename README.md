@@ -42,6 +42,12 @@
 </table>
 
 
-### Check out my blogs!
+### Blogs
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=gaohn-dsa&theme=radical)](https://gao-hongnan.github.io/gaohn-dsa/)
+
+### Portfolio
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=gaohn-dsa&theme=radical)]([https://gao-hongnan.github.io/gaohn-dsa/](https://github.com/gao-hongnan/TheBareOps)https://github.com/gao-hongnan/TheBareOps)
+
+
