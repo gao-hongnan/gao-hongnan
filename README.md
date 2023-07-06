@@ -23,6 +23,8 @@
 <a href="https://www.getdbt.com/" target="_blank"> <img alt="dbt" src="https://img.shields.io/badge/dbt-%23F01F7A.svg?style=for-the-badge&logo=dbt&logoColor=white"/></a>
 <a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <a href="https://cloud.google.com/" target="_blank"> <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+<a href="https://mlflow.org/" target="_blank"> <img alt="MLflow" src="https://img.shields.io/badge/MLflow-%23FF593D.svg?style=for-the-badge&logoColor=white"/></a>
+<a href="https://prometheus.io/" target="_blank"> <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logoColor=white"/></a>
 
 ### Stats
 
