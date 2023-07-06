@@ -42,6 +42,8 @@
 </table>
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/gaohn)
+
 ### Blogs
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=gaohn-dsa&theme=radical)](https://gao-hongnan.github.io/gaohn-dsa/)
