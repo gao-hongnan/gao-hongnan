@@ -47,7 +47,12 @@
 
 ### Blogs
 
-[![Blog](https://i.imgur.com/gmI2wzb.png)](https://gao-hongnan.github.io/gaohn-dsa/)
+<a href="https://your-github-pages-url.com">
+  <img src="https://i.imgur.com/gmI2wzb.png" alt="Blog" width="500"/>
+</a>
+
+Check out my blog where I share my thoughts and experiences on machine learning, data analysis, and more!
+
 
 ### Portfolio
 
