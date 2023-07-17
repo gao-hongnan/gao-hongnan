@@ -47,9 +47,7 @@
 
 ### Blogs
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=gaohn-dsa&theme=radical)](https://gao-hongnan.github.io/gaohn-dsa/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=gaohn-galaxy&theme=radical)](https://gao-hongnan.github.io/gaohn-galaxy/)
+[![Blog](https://i.imgur.com/gmI2wzb.png)](https://gao-hongnan.github.io/gaohn-dsa/)
 
 ### Portfolio
 
