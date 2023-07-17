@@ -51,10 +51,7 @@ Check out my blog where I share my thoughts and experiences on machine learning,
 
 #### Data Structures and Algorithms
 
-<a href="https://your-github-pages-url.com">
-  <img src="https://i.imgur.com/gmI2wzb.png" alt="Blog" width="400" height="250"/>
-</a>
-
+[](https://gao-hongnan.github.io/gaohn-dsa/intro.html)
 
 
 ### Portfolio
