@@ -43,7 +43,7 @@
 </table>
 
 
-// ![LeetCode Stats](https://leetcard.jacoblin.cool/gaohn?theme=dark&font=Sarala&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gaohn?theme=dark&font=Sarala&ext=heatmap)
 
 ### Blogs
 
