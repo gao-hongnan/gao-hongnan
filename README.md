@@ -41,21 +41,3 @@
 </td>
 </tr>
 </table>
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/gaohn?theme=dark&font=Sarala&ext=heatmap)
-
-### Blogs
-
-Check out my blog where I share my thoughts and experiences on machine learning, data analysis, and more!
-
-#### Data Structures and Algorithms
-
-[DSA](https://gao-hongnan.github.io/gaohn-dsa/intro.html)
-
-
-### Portfolio
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gao-hongnan&repo=TheBareOps&theme=radical)](https://github.com/gao-hongnan/TheBareOps)
-
-
