@@ -1,43 +1,69 @@
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- Badges: shields.io · Tech icons: skillicons.dev · Typing & streak: *.demolab.com -->
 
-### Hi there. I'm Hongnan Gao 👋
+<div align="center">
 
-<!--
-**gao-hongnan/gao-hongnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<img src="https://readme-typing-svg.demolab.com?lines=Hi+there+%F0%9F%91%8B+I%27m+Hongnan+Gao%3BAI+%2F+Software+Engineer%3BBuilding+scalable+ML+%26+data+platforms%3BI+turn+data+into+production+systems&font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=560&height=70" alt="Typing SVG" />
 
-[![](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=ffffff)](mailto:hongnangao@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0a66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gao-hongnan)
-[![](https://img.shields.io/badge/Kaggle-003e54?style=flat&logo=kaggle)](https://www.kaggle.com/reighns)
-[![](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://gao-hongnan.github.io/gaohn-dsa/)
+</div>
 
-### Tech Stack
+<br>
 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a>
-<a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
-<a href="https://www.docker.com/" target="_blank"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://kubernetes.io/" target="_blank"> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-<a href="https://github.com/features/actions" target="_blank"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
-<a href="https://airflow.apache.org/" target="_blank"> <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white"/></a>
-<a href="https://airbyte.io/" target="_blank"> <img alt="Airbyte" src="https://img.shields.io/badge/Airbyte-%230099CD.svg?style=for-the-badge&logo=Airbyte&logoColor=white"/></a>
-<a href="https://www.getdbt.com/" target="_blank"> <img alt="dbt" src="https://img.shields.io/badge/dbt-%23F01F7A.svg?style=for-the-badge&logo=dbt&logoColor=white"/></a>
-<a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<a href="https://cloud.google.com/" target="_blank"> <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+<div align="center">
 
+<a href="mailto:hongnangao@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/gao-hongnan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/gaohongnan"><img src="https://img.shields.io/badge/X-%40gaohongnan-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+<a href="https://www.kaggle.com/reighns"><img src="https://img.shields.io/badge/Kaggle-reighns-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://gaohongnan.com"><img src="https://img.shields.io/badge/Blog-gaohongnan.com-FF7139?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 
-### Stats
+</div>
 
-<table width="100%">
-<tr>
-<td width="50%">
+<br>
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gao-hongnan&theme=onedark)
+<p align="center"><em>AI &amp; Software Engineer — I build production machine-learning and data platforms that scale, from notebook experiment to reliable deployment.</em></p>
 
-</td>
-<td width="50%">
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gao-hongnan&show_icons=true&theme=onedark)
+### 🧰 Tech Stack
 
-</td>
-</tr>
-</table>
+#### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,go,rust,typescript" alt="Languages" />
+
+#### 🤖 Machine Learning & AI
+
+<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,fastapi" alt="ML & AI" />
+
+#### 🗄️ Data & Streaming
+
+<img src="https://skillicons.dev/icons?i=kafka,postgres,redis,elasticsearch" alt="Data & Streaming" />
+
+#### ☁️ Cloud, Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,prometheus,grafana,rabbitmq" alt="Cloud, Infra & DevOps" />
+
+#### 🧩 Also working with
+
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+<img src="https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white" alt="Kong" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gao-hongnan&theme=onedark&hide_border=true&card_width=495" alt="GitHub Streak" />
+
+<br><br>
+
+<a href="https://github.com/gao-hongnan"><img src="https://img.shields.io/github/followers/gao-hongnan?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=58A6FF&labelColor=1c1c1c" alt="GitHub Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=gao-hongnan&color=58A6FF&style=for-the-badge&label=Profile+Visitors" alt="Visitor Count" />
+
+</div>
