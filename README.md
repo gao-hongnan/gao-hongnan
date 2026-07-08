@@ -44,6 +44,8 @@
 
 #### 🧩 Also working with
 
+<div align="left">
+
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
@@ -52,6 +54,8 @@
 <img src="https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white" alt="Kong" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+
+</div>
 
 ---
 
